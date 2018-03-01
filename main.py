@@ -39,12 +39,14 @@ list_science = []
 list_economics = []
 list_seminar = []
 list_interinstitute = []
+list_physical = []
 
 # 正在选择的课程的清单
 list_selecting = []
 list_humanity_selecting = []
 list_science_selecting = []
 list_economics_selecting = []
+list_physical = []
 
 # 已选择课程的数量
 selected_num = 0
@@ -53,6 +55,7 @@ selected_num = 0
 flag_humanity = 1
 flag_science = 1
 flag_economics = 1
+flag_physical = 1
 
 
 intensity = 0
